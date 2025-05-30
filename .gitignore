@@ -26,5 +26,5 @@ yarn-error.log*
 *.png
 
 # except those in the screenshots/ folder
-!screenshots/
-!screenshots/*.png
+!screenshot/
+!screenshot/*.png
